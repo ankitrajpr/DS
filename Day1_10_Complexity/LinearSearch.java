@@ -2,7 +2,7 @@ package com.ds.Day1_10_Complexity;
 /* =================================
 
 author ankitrajprasad created on 10/09/20 
-inside the package - com.sunbeam.ds.Day1_10 
+inside the package - com.ds.Day1_10
 
 =====================================*/
 
