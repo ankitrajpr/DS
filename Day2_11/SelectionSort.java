@@ -2,7 +2,7 @@ package com.ds.Day2_11;
 /* =================================
 
 author ankitrajprasad created on 11/09/20 
-inside the package - com.sunbeam.ds.Day2_11 
+inside the package - com.ds.Day2_11 
 
 =====================================*/
 
